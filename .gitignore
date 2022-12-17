@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm project folder
+.idea/
+
+# Game files
+*.json
+*.nds
+*.3ds
+*.cia
+*.cxi
+*.bin
+*.sav
+*.gba
+*.gb
+*.gbc
+cetk
+tmd
+out.txt
+gameheader.txt
